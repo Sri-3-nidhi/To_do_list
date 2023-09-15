@@ -1,0 +1,27 @@
+.h2{
+    color:red;
+    font-size: x-large;
+    font-style: italic;
+}
+.h1{
+    color:black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+html{
+    background-color:plum;
+}
+.pa{
+    font-size: x-large;
+    background-color: aqua;
+    color: black;
+}
+.h2a{
+    text-align: left;
+}
+.h2b{
+    text-align: left;
+}
+.h2c{
+    text-align: left;
+}
